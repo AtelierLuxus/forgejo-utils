@@ -1,4 +1,5 @@
 # Install / Uninstall Forgejo
+Source : https://forgejo.org/docs/latest/admin/installation-binary/
 
 apt -y install mariadb-server
 
