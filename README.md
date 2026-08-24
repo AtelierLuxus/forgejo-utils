@@ -3,7 +3,7 @@ Source : https://forgejo.org/docs/latest/admin/installation-binary/
 
 apt -y install mariadb-server
 
-CREATE USER 'forgejo'@'%' IDENTIFIED BY 'passw0rd';
+CREATE USER 'forgejo'@'%' IDENTIFIED BY 'password';
 
 CREATE DATABASE forgejodb CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_bin';
 
